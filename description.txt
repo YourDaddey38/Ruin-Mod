@@ -1,0 +1,51 @@
+﻿// Ruin Mod is a content mod for Terraria.
+// The mod adds a new mechanical boss available
+// before plantera! It also drops a relic in master mode
+// and a bag in expert mode (trophie and mask in normal mode)
+// In Ruin Mod there are over 70 new vanilla crafting recipes!
+//
+// A more specific and detailed list of what Ruin Mod adds:
+// - +151 modded items!
+// - +1 new class! (Class is currently in development,
+//      only 3 weapons and 4 armor sets have been added)
+// - +1 hardmode boss
+// - +6 enemy NPCS
+// - +16 armor sets!
+// - +25 weapons
+// - +2 vanity masks
+// - +1 master mode relic and pet!
+// - +1 new buff and potion
+// - +3 accessories
+//
+// Credits:
+//
+// [c/FF0000:Ruin Mod Creators]
+// -YourDaddey
+// -Nasiroom
+//
+// [c/FF9A00:Community Management]
+// - Cramm 
+//
+// [c/990099:Coding]
+// -YourDaddey
+// - Cramm
+// - Uknoundusty
+//
+// [c/6600CC:Spriters]
+// -YourDaddey
+// - Cramm
+// - Uknoundusty
+// - Trafikone
+// - LEYEETUS
+//
+// [c/004C99:Music]
+// - Cramm
+//
+// [C/00994C:Wiki]
+// -YourDaddey
+// - Cramm
+//
+// For more information about Ruin Mod please ask in the
+//                       discord server
+//
+//        (For Change Log go to the discord server)
