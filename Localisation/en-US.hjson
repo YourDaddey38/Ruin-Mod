@@ -1,0 +1,42 @@
+﻿Mods:{
+    RuinMod:{
+        ItemName:{
+            LostFragment:"Lost Fragment"
+            LostFragmentOre:"Lost Fragment Ore"
+
+            AbandonedAxe:"Abandoned Axe"
+            AbandonedPickaxe:"Abandoned Pickaxe"
+
+            AbandonedSword:"Broken Abandoned Sword"
+            FixedAbandonedSword:"Abandoned Sword"
+        }
+
+        ItemSetBonus:{
+            DragonSet:"21% increased melee and movement speed"
+        }
+
+        BuffName: {
+            SoulBuff: "Soul Manipulation"
+
+            OcramsEyeBuff: "Red Eye"
+        }
+
+        BuffDescription: {
+            SoulBuff: "'The power of the souls is within you!'\nGrants immortality"
+
+            OcramsEyeBuff: "'I am always watching'"
+        }
+        
+        ItemToolTip:{
+            AbandonedSword:"Fixing this Might be worth it"
+            FixedAbandonedSword:"The essence of an eye rests in this sword"
+        }
+
+        MapObject:{
+            LostFragmentOre:"Lost Fragment"
+
+        }
+
+    }
+
+}
